@@ -1,0 +1,20 @@
+   1   cd data-struct-bootcamp
+   2   cd session-0
+   3   ls
+   4   mkdir hotel-del-jojo
+   5   ls
+   6   cd hotel-del-jojo
+   7   mkdir manager
+   8   mkdir asisten
+   9   ls
+   10  cd manager
+   11  touch data-manager.txt
+   12  ls
+   13  cd-
+   14  cd -
+   15  cd asisten
+   16  touch asisten.txt
+   17  ls
+   18  cd -
+   19  history nomor-2.txt
+   20  history > nomor-2.txt

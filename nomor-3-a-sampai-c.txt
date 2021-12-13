@@ -1,0 +1,17 @@
+    1  history
+    2  mkdir bos
+    3  ls
+    4  mv bos hotel-del-jojo
+    5  ls
+    6  cd hotel-del-jojo
+    7  ls
+    8  cd bos
+    9  touch bos.txt
+   10  ls
+   11  vi bos.txt
+   12  cd -
+   13  cd manager
+   14  mv data-manager.txt manager.txt
+   15  ls
+   16  cd -
+   17  history > nomor-3-a-sampai-c.txt
