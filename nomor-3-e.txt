@@ -1,0 +1,12 @@
+    1  cd data-struct-bootcamp
+    2  cd session-0
+    3  ls
+    4  cd hotel-del-jojo
+    5  ls
+    6  rmdir manager
+    7  rm manager
+    8  rm -f manager
+    9  rm -r manager
+   10  ls
+   11  history
+   12  history > nomor-3-e.txt
